@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Data structures and algorithms.iml" filepath="$PROJECT_DIR$/Data structures and algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/中级算法/中级算法.iml" filepath="$PROJECT_DIR$/中级算法/中级算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/初级算法/初级算法.iml" filepath="$PROJECT_DIR$/初级算法/初级算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/动态规划/动态规划.iml" filepath="$PROJECT_DIR$/动态规划/动态规划.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数组和字符串/数组和字符串.iml" filepath="$PROJECT_DIR$/数组和字符串/数组和字符串.iml" />
+      <module fileurl="file://$PROJECT_DIR$/浅刷辄止/浅刷辄止.iml" filepath="$PROJECT_DIR$/浅刷辄止/浅刷辄止.iml" />
+    </modules>
+  </component>
+</project>
