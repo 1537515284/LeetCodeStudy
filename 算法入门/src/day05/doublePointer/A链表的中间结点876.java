@@ -43,22 +43,4 @@ public class A链表的中间结点876 {
     }
 }
 
-/**
- * 链表结点
- */
-class ListNode {
-    int val;
-    ListNode next;
 
-    ListNode() {
-    }
-
-    ListNode(int val) {
-        this.val = val;
-    }
-
-    ListNode(int val, ListNode next) {
-        this.val = val;
-        this.next = next;
-    }
-}
